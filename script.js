@@ -2,7 +2,7 @@
 (function(){
   'use strict';
 
-  var WA_URL = 'https://wa.me/972502292915?text=' + encodeURIComponent('היי בר, הגעתי דרך האתר ויש לי שאלה לגבי עבודת חשמל.');
+  var WA_URL = 'https://wa.me/972559147363?text=' + encodeURIComponent('היי בר, הגעתי דרך האתר ויש לי שאלה לגבי עבודת חשמל.');
 
   // Populate WhatsApp links
   document.querySelectorAll('a[data-wa]').forEach(function(a){ a.href = WA_URL; });
